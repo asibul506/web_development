@@ -48,7 +48,7 @@ footer {
   margin-bottom: 10px;
 }
 
-@media (max-width: 480px){
+@media (max-width: 600px){
   body{
     background-color: #E3DEE3;
   }
@@ -72,7 +72,7 @@ footer {
     object-fit: cover;
   }
 }
-@media (min-width: 481px) and (max-width:768px){
+@media (min-width: 601px) and (max-width:900px){
   body{
     background-color: #F3D5D6;
   }
